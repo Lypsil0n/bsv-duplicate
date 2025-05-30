@@ -23,3 +23,6 @@ if __name__ == '__main__':
         print(f'{len(duplicates)} duplicate{"" if len(duplicates)==1 else "s"} found:')
         for duplicate in duplicates:
             print(f'- {duplicate}')
+
+
+        
